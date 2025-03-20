@@ -1,0 +1,578 @@
+#organic_header {
+    background-color: #e3effb;
+    text-align: center;
+}
+
+#organic_logo {
+    position: relative;
+    width: 20%;
+    right: 500px;
+}
+
+#menu-icon {
+    position: relative;
+    width: 3%;
+    left: 450px;
+}
+
+#organic_menu {
+    background-color: black;
+    color: white;
+}
+
+#cancel_button {
+    background-color: white;
+
+}
+
+#Basket_div {
+    position: relative;
+    background-color: #ededed;
+    margin-top: 7px;
+
+}
+
+#Basket {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    left: 0px;
+    top: 0px;
+
+}
+
+#FRESH_FOOD {
+    color: #61a734 !important;
+}
+
+#FRESH_FOOD_div {
+    position: absolute;
+    bottom: 380px;
+    left: 50px;
+}
+
+#learn_more {
+    width: 50%;
+    height: 50px;
+}
+
+#how_it_works {
+    text-align: center;
+    color: white;
+    background-color: #61a734;
+    display: block;
+    height: 800px;
+}
+
+#how_it_works_details {
+    position: relative;
+    top: 100px;
+    right: 10px;
+}
+
+.green_images {
+    width: 100%;
+    height: 200px;
+}
+
+.Organic_Farming {
+    background-color: white;
+    color: black;
+    width: 100%;
+    height: 200px;
+}
+
+
+#lower_green_images {
+    margin-top: 25px;
+}
+
+#green_container {
+    margin-top: 120px;
+    margin-left: 370px;
+}
+
+#ORGANIc_FARM {
+    background-color: #ecebf0;
+    position: relative;
+
+}
+
+#ORGANIc_FARM img {
+    width: 20%;
+    transform: rotate(180deg);
+}
+
+
+#ORGANIc_FARM_details {
+    background-color: white;
+    color: black;
+    width: 40%;
+    height: 570px;
+    top: 0px;
+    left: 800px;
+    position: absolute;
+    text-align: center;
+    padding: 50px;
+}
+
+#ORGANIc_FARM_details p {
+    text-align: left;
+
+}
+
+#ORGANIc_FARM_details h2 {
+    color: #61a734;
+    margin-top: 150px;
+}
+
+#learn_more_2 {
+    background-color: #ff5a00;
+    transition: 0.8s;
+    border: none;
+    color: white;
+    width: 25%;
+    height: 50px;
+    margin-right: 550px;
+}
+
+#learn_more_2:hover {
+    background-color: #c74600;
+}
+
+#About_Our_Farm_upper_section {
+    position: relative;
+    background-color: #61a734;
+    height: 420px;
+    text-align: center;
+    color: white;
+
+}
+
+#About_Our_Farm_details {
+    position: relative;
+    top: 100px;
+}
+
+#VEGETABLES_ul {
+    position: relative;
+    display: flex;
+    list-style-type: none;
+    left: 160px;
+    top: 100px;
+
+}
+
+#VEGETABLES_ul li {
+
+    background-color: white;
+    text-align: center;
+    width: 20%;
+    height: 200px;
+    margin-left: 10px;
+    padding: 50px;
+}
+
+.VEGETABLES {
+    margin-top: 40px;
+    color: black;
+
+
+}
+
+#About_Our_Farm_lower_section {
+    background-color: #f2f2f2;
+    height: 350px;
+}
+
+#farm_products {
+
+    list-style-type: none;
+    display: flex;
+    width: 100%;
+}
+
+#farm_products li {
+    position: relative;
+    width: 20%;
+    left: 122px;
+    margin-left: 16px;
+}
+
+#farm_products li img {
+    position: relative;
+    width: 102%;
+    text-align: center;
+    height: 200px;
+    left: 0px;
+}
+
+#HAPPY_FARMING {
+    display: flex;
+
+}
+
+#HAPPY_FARMING_learn_more {
+    width: 25%;
+    height: 50px;
+    background-color: #ff5a00;
+    border: none;
+    color: white;
+}
+
+#HAPPY_FARMING_details {
+    padding: 100px;
+    position: relative;
+    top: 110px;
+    left: 7px;
+}
+
+#HAPPY_FARMING_details h2 {
+    color: #61a734;
+    text-align: center;
+}
+
+#HAPPY_FARMING img {
+    width: 50%;
+    top: 10px;
+}
+
+#three_card_container {
+    background-color: #e3effb;
+    height: 650px;
+
+}
+
+#fresh_fruits {
+    display: flex;
+    position: relative;
+    bottom: 50px;
+}
+
+.three_card_vages {
+    position: relative;
+    text-align: center;
+    background-color: white;
+    height: 520px;
+    width: 18%;
+    margin-left: 30px;
+    top: 120px;
+    left: 350px;
+    padding: 30px;
+}
+
+#fresh_fruits_image {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.card-body {
+    position: relative;
+    top: 50px;
+
+}
+
+#organic_food_and_tomatos {
+    width: 50%;
+    text-align: center;
+}
+
+#organic_food_and_tomatos h1 {
+    color: #61a734;
+
+}
+
+#organic_food_learn_more {
+    width: 13%;
+
+    text-align: center;
+    height: 50px;
+    background-color: #ff5a00;
+    border: none;
+    color: white;
+    display: flex;
+}
+
+#ORGANIC_FARM {
+    height: 602px;
+}
+
+#ORGANIC_FARM_sub_data {
+    position: relative;
+    display: block;
+    padding: 100px;
+    left: 350px;
+    top: 100px;
+}
+
+#ORGANIC_FARM_sub_data h1 {
+
+    color: #61a734;
+}
+
+#ORGANIC_FARM button {
+    width: 30%;
+    position: relative;
+    height: 50px;
+    background-color: #ff5a00;
+    border: none;
+    color: white;
+    top: 20px;
+}
+
+#ORGANIC_FARM img {
+    width: 100%;
+    position: relative;
+    left: 320px;
+
+    height: 600px;
+}
+
+#grasp_fiel {
+    width: 100%;
+}
+
+iframe {
+    width: 103%;
+    height: 528px;
+}
+
+#map_and_image {
+    display: flex;
+}
+
+@media only screen and (max-width: 600px) {
+    #organic_header {
+        background-color: #e3effb;
+
+    }
+
+    #organic_logo {
+        position: relative;
+        width: 20%;
+        right: 0px;
+    }
+
+    #menu-icon {
+        position: relative;
+        width: 3%;
+        left: 150px;
+    }
+
+    #organic_menu {
+        left: -1px;
+        width: 50%;
+    }
+
+    #Basket {
+        top: 0px;
+        top: 265px;
+    }
+
+    #FRESH_FOOD_div {
+        position: absolute;
+        bottom: 55px;
+        left: 50px;
+    }
+
+    #green_container {
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .Organic_Farming {
+        background-color: white;
+        color: black;
+        width: 323%;
+        height: auto;
+    }
+
+    #lower_green_images {
+        margin-top: 25px;
+        display: block;
+        margin-left: 100px;
+    }
+
+    #upper_green_images {
+        display: block;
+        margin-left: 100px;
+    }
+
+    .green_images {
+        width: 323%;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    #how_it_works {
+        text-align: center;
+        color: white;
+        background-color: #61a734;
+        display: block;
+        margin-top: 265px;
+        height: 1600px;
+
+    }
+
+
+    #ORGANIc_FARM {
+        background-color: #ecebf0;
+        position: relative;
+        height: 800px;
+
+    }
+
+    #ORGANIc_FARM_details {
+        background-color: white;
+        color: black;
+        width: 80%;
+        height: 400px;
+        bottom: 100px;
+        left: 0px;
+        position: relative;
+        text-align: center;
+        padding: 50px;
+    }
+
+    #ORGANIc_FARM img {
+        width: 80%;
+        height: 400px;
+        transform: rotate(180deg);
+    }
+
+    #learn_more_2 {
+        width: 50%;
+    }
+
+    #ORGANIc_FARM_details h2 {
+        color: #61a734;
+        margin-top: 50px;
+    }
+
+    #VEGETABLES_ul {
+        position: relative;
+        display: block;
+        list-style-type: none;
+        left: 118px;
+        top: 100px;
+
+    }
+
+    #VEGETABLES_ul li {
+
+        background-color: white;
+        text-align: center;
+        width: 50%;
+        height: 260px;
+        margin-top: 10px;
+        padding: 50px;
+    }
+
+    .VEGETABLES {
+        margin-top: 0px;
+        color: black;
+
+
+    }
+
+    #About_Our_Farm_lower_section {
+        background-color: #f2f2f2;
+        height: 1800px;
+
+    }
+
+    #farm_products {
+        position: relative;
+        top: 920px;
+        right: 41px;
+        display: block;
+        width: 58%;
+    }
+
+    #farm_products li {
+        width: auto;
+        height: auto;
+        margin-top: 10px;
+    }
+
+    #HAPPY_FARMING {
+        display: block;
+
+    }
+
+    #HAPPY_FARMING_learn_more {
+        width: 50%;
+    }
+
+    #HAPPY_FARMING img {
+        width: 100%;
+    }
+
+    #HAPPY_FARMING_details {
+        padding: 50px;
+        top: 10px;
+        left: 10px;
+    }
+
+    #fresh_fruits {
+        display: block;
+        bottom: 500px;
+    }
+
+    #three_card_container {
+        height: 1800px;
+
+    }
+
+    .three_card_vages {
+        position: relative;
+        text-align: center;
+        background-color: white;
+        height: 530px;
+        width: 50%;
+        margin-top: 30px;
+        top: 580px;
+        left: 100px;
+        padding: 30px;
+    }
+
+    #ORGANIC_FARM {
+        height: 1202px;
+        display: block;
+    }
+
+    #ORGANIC_FARM_sub_data {
+        position: relative;
+        width: 120%;
+        display: block;
+        padding: 0px;
+
+        left: 50px;
+        top: 100px;
+    }
+
+    #ORGANIC_FARM img {
+        width: 257%;
+        position: relative;
+        left: 0px;
+        top: 150px;
+
+        height: 400px;
+    }
+
+    #map_and_image {
+        display: block;
+    }
+
+    #grasp_fiel {
+        width: 215%;
+    }
+
+    iframe {
+        width: 210%;
+        height: 528px;
+    }
+
+}
